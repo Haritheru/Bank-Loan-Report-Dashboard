@@ -55,17 +55,27 @@ Loan activity shows monthly trends with clear MTD vs. PMTD differences.
 Borrower segmentation reveals state- and purpose-based variations.
 
 📷 Sample Dashboard Screenshots
+
 📊 Dashboard 1 — Summary
 
 High-level KPIs such as total loan applications, funded amount, amount received, average interest rate, average DTI, and Good vs. Bad loan percentage.
+
+screenshot : <img width="1909" height="988" alt="Screenshot 2025-09-04 105038" src="https://github.com/user-attachments/assets/c77e099b-81bd-409d-9d02-1a58e80055c7" />
+
 
 📊 Dashboard 2 — Overview
 
 Aggregated portfolio performance across months, including loan status breakdown (Fully Paid, Current, Charged Off), repayment trends, and overall funding analysis.
 
+Screenshot : <img width="1919" height="1014" alt="Screenshot 2025-09-04 105122" src="https://github.com/user-attachments/assets/bb2e795a-6e3c-49d4-a7a0-388f5b433659" />
+
+
 📊 Dashboard 3 — Details
 
 Tabular loan-level view showing borrower segmentation by state, purpose, loan term, employment length, and home ownership.
+
+Screenshot : <img width="1919" height="1014" alt="Screenshot 2025-09-04 105152" src="https://github.com/user-attachments/assets/88e2a444-1d49-45c2-a633-4fdd1837c623" />
+
 
 🚀 How to Use
 
